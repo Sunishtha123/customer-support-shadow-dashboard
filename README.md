@@ -2,6 +2,8 @@
 
 A responsive React frontend built as part of a summer internship project at **Vellion Group**. It gives support agents a read-only view to look up customer information, filter records, and check support status figures without writing manual database queries.
 
+**Live demo:** https://customer-support-shadow-dashboard.vercel.app/
+
 ## Features
 
 - **Support Overview & Live Status Metrics:** Summary metric cards and recent customer/ticket snapshots.
